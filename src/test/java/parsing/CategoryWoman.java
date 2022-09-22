@@ -1,8 +1,8 @@
-package categoryWoman;
+package parsing;
 
 import base.BaseClass;
-import womanCategoryPOJO.WomanCategoryAllUrl;
-import womanCategoryPOJO.WomanCategoryNamesJson;
+import categoryPOJO.WomanCategoryAllUrl;
+import categoryPOJO.WomanCategoryNamesJson;
 
 import java.io.IOException;
 
