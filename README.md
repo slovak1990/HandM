@@ -4,7 +4,7 @@
 
 Пример выходных данных в файле example.json
 
-Технологии: Java, Maven, Selenium
+Технологии: Java, Maven, Selenium, Selenide
 
 Использованные библиотеки: Jsoup, Jackson
 
