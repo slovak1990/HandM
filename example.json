@@ -1,0 +1,235 @@
+[ {
+  "id" : 1,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0964256003.html",
+  "productArticle" : "0964256003",
+  "productName" : "Bacak Cepli Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/59/a8/59a89d2243a4bfaefdc8c3ac9c2eb0b48fec32fc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "349,99 TL",
+  "productsDetails" : {
+    "id" : 1,
+    "colorName" : [ "Açık gri", "Koyu yeşil" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F53%2Fbd%2F53bd4ba946f1d87930d6015c7cc9f605dccd6773.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F53%2Fbd%2F53bd4ba946f1d87930d6015c7cc9f605dccd6773.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0964256001", "0964256001" ],
+    "prices" : [ "349,99 TL", "349,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "S", "M", "L\nBirkaç parça kaldı", "XL\nBirkaç parça kaldı", "XXL\nBirkaç parça kaldı" ],
+    "rating" : "4.5"
+  }
+}, {
+  "id" : 2,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0944718041.html",
+  "productArticle" : "0944718041",
+  "productName" : "Desenli Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/6f/76/6f7614e8185e3452c4af8dd2806fa5a1012f50e5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "249,99 TL",
+  "productsDetails" : {
+    "id" : 2,
+    "colorName" : [ "Koyu turkuaz/Ombre", "Koyu turkuaz/Crown Imperial", "Turuncu/Palmiyeler" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F07%2F7e07c62581ca387d9948dd700fa36c30f38e9be0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F07%2F7e07c62581ca387d9948dd700fa36c30f38e9be0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F07%2F7e07c62581ca387d9948dd700fa36c30f38e9be0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0944718001", "0944718001", "0944718001" ],
+    "prices" : [ "249,99 TL", "139,00 TL", "249,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "XS\nBirkaç parça kaldı", "S\nBirkaç parça kaldı", "M", "L", "XL\nBirkaç parça kaldı", "XXL\nBirkaç parça kaldı" ],
+    "rating" : "4.7"
+  }
+}, {
+  "id" : 3,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.1057591007.html",
+  "productArticle" : "1057591007",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/c4/fc/c4fc45e5eff233e77528016648fb15d93ca67e1a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "249,99 TL",
+  "productsDetails" : {
+    "id" : 3,
+    "colorName" : [ "Turkuaz", "Paslı kırmızı" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2Fae%2F5eae8b4f670b17e8b3a6c5af579f180bfdd33b22.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2Fae%2F5eae8b4f670b17e8b3a6c5af579f180bfdd33b22.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "1057591001", "1057591001" ],
+    "prices" : [ "114,00 TL", "249,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "XS\nBirkaç parça kaldı", "S", "M", "L", "XXL\nBirkaç parça kaldı" ],
+    "rating" : "4.8"
+  }
+}, {
+  "id" : 4,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.1067159001.html",
+  "productArticle" : "1067159001",
+  "productName" : "Desenli Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/63/fb/63fb16ca27c8f5987c488dd7a07829a7646db790.jpg],origin[dam],category[men_swimweear],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "349,99 TL",
+  "productsDetails" : {
+    "id" : 4,
+    "colorName" : [ "Siyah/Smiley®" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff0%2F27%2Ff027fd2e7f1f82682b27da130ef372c9d972a9ba.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "1067159001" ],
+    "prices" : [ "349,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "S\nBirkaç parça kaldı", "M\nBirkaç parça kaldı" ],
+    "rating" : "5.0"
+  }
+}, {
+  "id" : 5,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0920172006.html",
+  "productArticle" : "0920172006",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/66/67/6667a1d5e0526f0dc13a397b380967b05fdec639.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "249,99 TL",
+  "productsDetails" : {
+    "id" : 5,
+    "colorName" : [ "Koyu bej", "Yeşil", "Çelik mavisi" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2Fa1%2F4aa130a222d89879df911a50c1d97d2fc33c382c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2Fa1%2F4aa130a222d89879df911a50c1d97d2fc33c382c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2Fa1%2F4aa130a222d89879df911a50c1d97d2fc33c382c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0920172001", "0920172001", "0920172001" ],
+    "prices" : [ "249,99 TL", "139,00 TL", "124,00 TL" ],
+    "sizes" : [ "", "" ],
+    "rating" : "4.5"
+  }
+}, {
+  "id" : 6,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.1039519001.html",
+  "productArticle" : "1039519001",
+  "productName" : "Diz Boyu Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/02/23/0223ebace1fa88c239eafed2dd463d7726c4a27b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "299,99 TL",
+  "productsDetails" : {
+    "id" : 6,
+    "colorName" : [ "Siyah", "Siyah/Koyu bej/Beyaz" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2Ff5%2F4af55ba3b942905246c2027b77fd759ae0025ff6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2Ff5%2F4af55ba3b942905246c2027b77fd759ae0025ff6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "1039519001", "1039519001" ],
+    "prices" : [ "299,99 TL", "149,99 TL" ],
+    "sizes" : [ "", "" ],
+    "rating" : "4.7"
+  }
+}, {
+  "id" : 7,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0964256005.html",
+  "productArticle" : "0964256005",
+  "productName" : "Bacak Cepli Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/48/2d/482ddc2d3f50c9094528667c061bb52a0f54bb54.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "349,99 TL",
+  "productsDetails" : {
+    "id" : 7,
+    "colorName" : [ "Açık gri", "Koyu yeşil" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F53%2Fbd%2F53bd4ba946f1d87930d6015c7cc9f605dccd6773.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F53%2Fbd%2F53bd4ba946f1d87930d6015c7cc9f605dccd6773.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0964256001", "0964256001" ],
+    "prices" : [ "349,99 TL", "349,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "S", "M", "L\nBirkaç parça kaldı", "XL\nBirkaç parça kaldı", "XXL\nBirkaç parça kaldı" ],
+    "rating" : "4.5"
+  }
+}, {
+  "id" : 8,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0944370012.html",
+  "productArticle" : "0944370012",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/a4/37/a4373becc4987a50a7836317b17bd31a7d299b7a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "279,99 TL",
+  "productsDetails" : {
+    "id" : 8,
+    "colorName" : [ "Koyu mavi", "Mercan", "Koyu turkuaz" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F73%2Fe673ef8ba0615de53f52bd95c01b2ed424e4c91b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F73%2Fe673ef8ba0615de53f52bd95c01b2ed424e4c91b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F73%2Fe673ef8ba0615de53f52bd95c01b2ed424e4c91b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0944370001", "0944370001", "0944370001" ],
+    "prices" : [ "279,99 TL", "124,00 TL", "137,49 TL" ],
+    "sizes" : [ "", "" ],
+    "rating" : "4.7"
+  }
+}, {
+  "id" : 9,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0944718043.html",
+  "productArticle" : "0944718043",
+  "productName" : "Desenli Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/4e/8d/4e8d6fc9e22b6b6d8e5aca599ad07f5ad29cecf1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "249,99 TL",
+  "productsDetails" : {
+    "id" : 9,
+    "colorName" : [ "Koyu turkuaz/Ombre", "Koyu turkuaz/Crown Imperial", "Turuncu/Palmiyeler" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F07%2F7e07c62581ca387d9948dd700fa36c30f38e9be0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F07%2F7e07c62581ca387d9948dd700fa36c30f38e9be0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F07%2F7e07c62581ca387d9948dd700fa36c30f38e9be0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0944718001", "0944718001", "0944718001" ],
+    "prices" : [ "249,99 TL", "139,00 TL", "249,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "XS\nBirkaç parça kaldı", "S\nBirkaç parça kaldı", "M", "L", "XL\nBirkaç parça kaldı", "XXL\nBirkaç parça kaldı" ],
+    "rating" : "4.7"
+  }
+}, {
+  "id" : 10,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.1057589003.html",
+  "productArticle" : "1057589003",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/66/06/660651f4d10d51888b572b3f4e9ec9914a88dcba.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "329,99 TL",
+  "productsDetails" : {
+    "id" : 10,
+    "colorName" : [ "Lacivert", "Koyu gri" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2Fb4%2F25b4b8b4ccac7d81840dd4ca0c20b97c331f6165.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2Fb4%2F25b4b8b4ccac7d81840dd4ca0c20b97c331f6165.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "1057589002", "1057589002" ],
+    "prices" : [ "329,99 TL", "329,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "S", "M", "L" ],
+    "rating" : "4.5"
+  }
+}, {
+  "id" : 11,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.1057589007.html",
+  "productArticle" : "1057589007",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/84/9a/849a23e196bce8f560c80747596cdb0f3e46463b.jpg],origin[dam],category[men_swimweear],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "329,99 TL",
+  "productsDetails" : {
+    "id" : 11,
+    "colorName" : [ "Lacivert", "Koyu gri" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2Fb4%2F25b4b8b4ccac7d81840dd4ca0c20b97c331f6165.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2Fb4%2F25b4b8b4ccac7d81840dd4ca0c20b97c331f6165.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "1057589002", "1057589002" ],
+    "prices" : [ "329,99 TL", "329,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "S", "M", "L" ],
+    "rating" : "4.5"
+  }
+}, {
+  "id" : 12,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0944719015.html",
+  "productArticle" : "0944719015",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/e3/4f/e34f4a5317466f413aa7a609a31a2655104793cb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+  "productPrice" : "279,99 TL",
+  "productsDetails" : {
+    "id" : 12,
+    "colorName" : [ "Pembe" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe3%2F30%2Fe3304a17530baf61e4d93e343f0afa09f2463109.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0944719001" ],
+    "prices" : [ "279,99 TL" ],
+    "sizes" : [ "Lütfen beden seçin", "XL\nBirkaç parça kaldı" ],
+    "rating" : "4.5"
+  }
+}, {
+  "id" : 13,
+  "brand" : "H&M",
+  "dataCategory" : "men_swimweear",
+  "productLink" : "https://www2.hm.com/tr_tr/productpage.0951150005.html",
+  "productArticle" : "0951150005",
+  "productName" : "Şort Mayo",
+  "productImage" : "//lp2.hm.com/hmgoepprod?set=source[/6d/94/6d9482295d3db198012022eee4263a98f2d608a6.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+  "productPrice" : "319,99 TL",
+  "productsDetails" : {
+    "id" : 13,
+    "colorName" : [ "Siyah", "Mavi", "Siyah", "Koyu gri" ],
+    "image" : [ "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F7d%2F947d5424808d2e9b26184be9d9e592dedd18f3d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F7d%2F947d5424808d2e9b26184be9d9e592dedd18f3d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F7d%2F947d5424808d2e9b26184be9d9e592dedd18f3d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]", "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F7d%2F947d5424808d2e9b26184be9d9e592dedd18f3d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_swimweear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/miniature]" ],
+    "colorArticle" : [ "0951150001", "0951150001", "0951150001", "0951150001" ],
+    "prices" : [ "239,00 TL", "319,99 TL", "129,00 TL", "129,00 TL" ],
+    "sizes" : [ "", "", "", "", "" ],
+    "rating" : "4.6"
+  }
+} ]
